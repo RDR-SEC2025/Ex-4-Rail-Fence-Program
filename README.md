@@ -1,4 +1,4 @@
-# Ex-5 Rail-Fence-Program
+# EX-5 RAIL FENCE PROGRAM
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
@@ -68,3 +68,4 @@ int main()
 
 
 # RESULT
+Thus, the C program for the Rail Fence Cipher was successfully executed.
